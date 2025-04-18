@@ -2,14 +2,14 @@
   font-family: "Alte Haas Grotesk";
   src: url("./fonts/altehaasgroteskregular-webfont.woff2") format("woff2");
   font-weight: normal;
-  font-display: swap;
+  font-style: normal;
 }
 
 @font-face {
   font-family: "Bebas";
   src: url("./fonts/bebas-regular-webfont.woff2") format("woff2");
   font-weight: normal;
-  font-display: swap;
+  font-style: normal;
 }
 
 * {
